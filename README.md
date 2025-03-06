@@ -1,8 +1,8 @@
-#HeroRandomizer IOS APP
+# **HeroRandomizer IOS APP**
 Hero Randomizer is an application that displays random superheroes using the Superhero API for iOS. The app allows users to view superhero data and search for specific heroes through the search. It features smooth animations and an interactive interface, which makes it fun to work with.
 
 
-##Features
+## *Features*
 
 Choosing a random hero from the Superhero API
 Displaying information about the hero (name, image, power characteristics, biography, etc.)
@@ -10,7 +10,7 @@ interesting and attractive interface style
 "Search" function: View the information of your favorite characters by searching
 
 
-##Screenshots
+## *Screenshots*
 When you open the application, a page appears where you need to click on the "NEXT HERO" button and randomly get heroes.
 <img width="334" alt="Снимок экрана 2025-03-06 в 11 33 27 PM" src="https://github.com/user-attachments/assets/c5fa9028-8fd6-413d-a248-7484722c108c" />
 
